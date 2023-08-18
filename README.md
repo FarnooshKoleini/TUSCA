@@ -7,17 +7,16 @@ ASCA+ code was used from https://github.com/josecamachop/MEDA-Toolbox.
 ## Setup
 
 ### 1. The `ASCA+` toolbox
- * downloading the toolbox from this https://github.com/josecamachop/MEDA-Toolbox. Add the toolbox on your path.
+ * downloading the toolbox from https://github.com/josecamachop/MEDA-Toolbox and add it on the MATLAB path.
 
-### 2. Download SMPL pickle files
-  * Download the models from the [SMPL website](http://smpl.is.tue.mpg.de/) by choosing "SMPL for Python users". Note that you need to comply with the [SMPL model license](http://smpl.is.tue.mpg.de/license_model).
-  * Extract and copy the `models` folder into the `smplpytorch/native/` folder (or set the `model_root` parameter accordingly).
-
+### 2. Download tuckals, chstruct, chgraphics files
+  * Download there toolboxes and add them on the path.
+  * 
 ## Demo
 
 Forward pass the randomly created pose and shape parameters from the SMPL layer and display the human body mesh and joints:
 
-`python demo.py`
+`python demo.m`
 
 ## Acknowledgements
 The code **largely** builds on the [manopth](https://github.com/hassony2/manopth) repository from [Yana Hasson](https://github.com/hassony2), which implements the [MANO](http://mano.is.tue.mpg.de) hand model [\[2\]](#references) layer.
