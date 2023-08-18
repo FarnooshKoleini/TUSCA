@@ -7,10 +7,10 @@ The complementary nature of ANOVA Simultaneous Component Analysis (ASCA) and Tuc
 ## Setup
 
 ### 1. The `ASCA+` toolbox
- * downloading the toolbox from https://github.com/josecamachop/MEDA-Toolbox and add it on the MATLAB path.
+ * Downloading the toolbox from https://github.com/josecamachop/MEDA-Toolbox and add it on the MATLAB path.
 
 ### 2. The `tuckals`, `chstruct`, `chgraphics`, `chemom` packages
-  * Download there toolboxes and add them on the path.
+  * Downloading the toolboxes and add them on the path.
 
 ## Demo
 
