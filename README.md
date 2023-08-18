@@ -11,12 +11,12 @@ ASCA+ code was used from https://github.com/josecamachop/MEDA-Toolbox.
 
 ### 2. Download tuckals, chstruct, chgraphics files
   * Download there toolboxes and add them on the path.
-  * 
+
 ## Demo
 
 Forward pass the randomly created pose and shape parameters from the SMPL layer and display the human body mesh and joints:
 
-`python demo.m`
+`Blue_Crab_nested_parfor.m`
 
 ## Acknowledgements
 The code **largely** builds on the [manopth](https://github.com/hassony2/manopth) repository from [Yana Hasson](https://github.com/hassony2), which implements the [MANO](http://mano.is.tue.mpg.de) hand model [\[2\]](#references) layer.
