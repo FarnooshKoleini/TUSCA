@@ -14,9 +14,7 @@ ASCA+ code was used from https://github.com/josecamachop/MEDA-Toolbox.
 
 ## Demo
 
-Download `Blue_Crab_nested_parfor.mat` and run `Blue_Crab_nested_parfor.m` to reproduce [3 7 3] tucker3 model and getting the backward elimination results:
-
-
+Download `Blue_Crab_nested_parfor.mat` and run `Blue_Crab_nested_parfor.m` to reproduce the optimum tucker3 model, [3 7 3] model, and getting the backward elimination results.
 
 ## References
 
