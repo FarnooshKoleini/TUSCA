@@ -7,7 +7,7 @@ ASCA+ code was used from https://github.com/josecamachop/MEDA-Toolbox.
 ## Setup
 
 ### 1. The `ASCA+` toolbox
- **Run without installing:** You will need to install the dependencies listed in [environment.yml]
+ * downloading the toolbox from this https://github.com/josecamachop/MEDA-Toolbox. Add the toolbox on your path.
 
 ### 2. Download SMPL pickle files
   * Download the models from the [SMPL website](http://smpl.is.tue.mpg.de/) by choosing "SMPL for Python users". Note that you need to comply with the [SMPL model license](http://smpl.is.tue.mpg.de/license_model).
